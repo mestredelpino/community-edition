@@ -4,6 +4,10 @@ If you're using Tanzu Community Edition and want to add your organization to thi
 
 ## Organizations using Tanzu Community Edition
 
+### [ITQ Consultancy](https://itq.eu/)
+
+ITQ Consultancy is building up an array of Kubernetes clusters with Tanzu Community Edition, in order to provide their clients (and potential clients) with an environment in which they can develop a Proof of Concept of their choice. This will be provisioned by using the script mentioned on [this blogpost](https://www.mestredelpino.com/automated-tanzu-community-edition-deployment-on-vmware-cloud-on-aws)
+
 ## Solutions built with Tanzu Community Edition
 
 Below is a list of solutions where Tanzu Community Edition is being used as a component:
